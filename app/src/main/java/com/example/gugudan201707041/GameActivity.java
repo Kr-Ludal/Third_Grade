@@ -23,7 +23,6 @@ public class GameActivity extends AppCompatActivity {
 
     Button btn1,btn2,btn3,btn4,btn5,btn6,btn7,btn8,btn9,btn0,btncencel,btnenter;
     ProgressBar pb;
-    private String answer,question;
     int corcnt=0;
     int result=0;
     TextView txtquestion,txtanswer,correct;
